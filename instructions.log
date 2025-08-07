@@ -1,0 +1,11 @@
+do the following aside from the standard yml environment setup:
+
+# For jax and jaxlib:
+1. pip install jax==0.4.18
+2. pip install jaxlib==0.4.18
+
+For immrax
+3. for immrax: git checkout 29f935da37e505d6525ae2e82f3aeca7e5b80d76
+4. for immrax: pip install -e .
+
+
